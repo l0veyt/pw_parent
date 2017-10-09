@@ -1,0 +1,14 @@
+# server config
+server:
+  port: 8080
+
+# spring config
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: 192.168.5.78
+    username: lxsb
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
