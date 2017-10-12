@@ -40,3 +40,4 @@ gradle-app.setting
 
 ### Intellij IDEA template
 .idea/
+out/
